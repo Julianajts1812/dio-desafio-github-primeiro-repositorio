@@ -7,8 +7,7 @@ Repositório criado para o Desafio de Projeto.
 
 ## Eduzz Fullstack Developer
 
-## Intermediário
-## 41 atividades
+## Nível Intermediário
 ## 95 hrs
 
 ## Conteúdos abordados:
